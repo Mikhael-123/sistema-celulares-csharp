@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioDIOCelular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa20dfffff76be06526bac4aa335b4c3197604ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bafe3efda638c31ef08681aed49f777d1cd7718a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioDIOCelular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioDIOCelular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
