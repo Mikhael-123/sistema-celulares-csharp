@@ -1,0 +1,14 @@
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.AssemblyInfoInputs.cache
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.AssemblyInfo.cs
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.csproj.CoreCompileInputs.cache
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\bin\Debug\net10.0\DesafioDIOCelular.exe
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\bin\Debug\net10.0\DesafioDIOCelular.deps.json
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\bin\Debug\net10.0\DesafioDIOCelular.runtimeconfig.json
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\bin\Debug\net10.0\DesafioDIOCelular.dll
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\bin\Debug\net10.0\DesafioDIOCelular.pdb
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.dll
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\refint\DesafioDIOCelular.dll
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.pdb
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\DesafioDIOCelular.genruntimeconfig.cache
+C:\Users\Monica\tech\C#\Mikhael-123\DesafioDIOCelular\obj\Debug\net10.0\ref\DesafioDIOCelular.dll
